@@ -1,0 +1,16 @@
+--2022-04-21 19:13:48--  https://weibo.com/ajax/statuses/mymblog?uid=6573277031
+Resolving weibo.com (weibo.com)... 180.149.138.246, 2400:89c0:1053:3::17, 2400:89c0:1053:3::18
+Connecting to weibo.com (weibo.com)|180.149.138.246|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://passport.weibo.com/visitor/visitor?entry=sinawap&a=enter&url=https%3A%2F%2Fweibo.com%2Fajax%2Fstatuses%2Fmymblog%3Fuid%3D6573277031&domain=weibo.com&ua=Wget%2F1.20.3%20%28linux-gnu%29&_rand=1650539628190&sudaref= [following]
+--2022-04-21 19:13:48--  https://passport.weibo.com/visitor/visitor?entry=sinawap&a=enter&url=https%3A%2F%2Fweibo.com%2Fajax%2Fstatuses%2Fmymblog%3Fuid%3D6573277031&domain=weibo.com&ua=Wget%2F1.20.3%20%28linux-gnu%29&_rand=1650539628190&sudaref=
+Resolving passport.weibo.com (passport.weibo.com)... 183.60.95.188
+Connecting to passport.weibo.com (passport.weibo.com)|183.60.95.188|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘mymblog?uid=6573277031’
+
+mymblog?uid=6573277031                [<=>                                                        ]       0  --.-KB/s               mymblog?uid=6573277031                [ <=>                                                       ]   6.13K  --.-KB/s    in 0s      
+
+2022-04-21 19:13:48 (109 MB/s) - ‘mymblog?uid=6573277031’ saved [6281]
+
